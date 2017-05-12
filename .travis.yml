@@ -1,0 +1,13 @@
+branches:
+  only:
+    - master
+  except:
+    - gh-pages
+
+script: bash ./deploy.sh
+env:
+  global:
+    - ENCRYPTION_LABEL: 6ffaa84d417f
+language: node_js
+node_js:
+  - stable
