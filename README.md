@@ -1,5 +1,5 @@
 
-# SKHU SW 지식저장소 위키
+# SKHU SW 지식저장소 위키 [![Build Status](https://travis-ci.org/skhu-sw/wiki.svg?branch=master)](https://travis-ci.org/skhu-sw/wiki)
 
 ### 위키 역사
 - [위키 수정기록(`master`가지 커밋 기록)](https://github.com/skhu-sw/wiki/commits/master)
